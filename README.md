@@ -1,6 +1,6 @@
 # Three Language Quine Relay
 
-quine.c is a C program which generates a Java programme which generates a Python programme which generates quine2.c - which is a programme with identical code to quine.c. This project was heavily inspired by Yusuke Endoh's [128 step quine relay](https://github.com/mame/quine-relay.git) who has made some amazing obfuscation and metaprogramming programmes and I encourage you to check him out. 
+quine.c is a C program which generates a Java programme which generates a Python programme which generates quine2.c - a programme with identical code to quine.c. This project was heavily inspired by Yusuke Endoh's [128 step quine relay](https://github.com/mame/quine-relay.git) who has made some amazing obfuscation and metaprogramming programmes and I encourage you to check him out. 
 
 # How to use
 
